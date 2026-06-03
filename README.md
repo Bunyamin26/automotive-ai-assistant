@@ -56,5 +56,5 @@ Now, open your browser to `http://localhost:5173` to try out the application.
 
 ## Project Links
 * **Source Code Repository**: https://github.com/Bunyamin26/automotive-ai-assistant
-* **Video Demonstration (1-Minute)**: https://youtu.be/YOUR_VIDEO_ID
-* **Interactive Live Website**: https://YOUR_APP.vercel.app
+* **Video Demonstration (1-Minute)**: https://youtu.be/G_koGFnNfCo
+* **Interactive Live Website**: https://automind-ai.vercel.app
